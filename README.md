@@ -33,7 +33,7 @@ The dashboard helps restaurants & business managers:
 ---
 
 ## 📂 Data Source  
-- **Dataset:** `Pizza_Sales.csv` (Pizza Sales Dataset — 01-Jan-2015 to 31-Dec-2015)  
+- **Dataset:** https://github.com/surajbudakoti11-cmd/Pizza_sales_visualization-/blob/main/pizza_sales_excel_file.xlsx (Pizza Sales Dataset — 01-Jan-2015 to 31-Dec-2015)  
 - **Typical Fields:** `OrderID, OrderDate, PizzaCategory, PizzaName, Quantity, UnitPrice, TotalRevenue, OrderID`  
 
 > _Place the dataset file in the same repo folder (or a `data/` folder) and update paths in Power BI if required._
@@ -71,14 +71,6 @@ Deliver an **interactive report** with KPIs & product-level insights for better 
 | ![Dashboard](./pizza%20sales%20power%20bi%202.png) | ![Dashboard](./pizza%20sales%20power%20bi%202.png) |  
 
 </div>  
-
----
-
-## 🚀 How to Run / Use
-1. Put `Pizza_Sales.csv` in the project folder (or `data/` folder).  
-2. Open `Pizza_Sales_Report.pbix` in **Power BI Desktop**.  
-3. If needed, in Power Query adjust the data source path to your CSV location.  
-4. Use slicers for date range and pizza category to explore the visuals.
 
 ---
 
