@@ -1,67 +1,89 @@
-🍕 Pizza Sales Report (Power BI)
-📊 Project Overview
+<div align="center">  
 
-This project analyzes Pizza Sales Data from Jan 2015 – Dec 2015 using Power BI.
-The dashboard provides insights into revenue, quantity, and order patterns to identify best and worst-selling pizzas, helping stakeholders optimize menu offerings and improve decision-making.
+# 🍕 Pizza Sales Analysis Dashboard  
 
-📂 Dataset
+📊 *Interactive Power BI Dashboard for Sales Performance & Product Insights*  
 
-Source: Pizza Sales Dataset
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)  
+![Excel](https://img.shields.io/badge/Excel-Data%20Source-brightgreen)  
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-orange)  
 
-Period Covered: 01-Jan-2015 to 31-Dec-2015
+</div>  
 
-Records: 49,574 pizzas sold
+---
 
-Metrics Captured: Revenue, Orders, Quantity, Average Order Value
+## 🎯 Purpose  
+The dashboard helps restaurants & business managers:  
+✔️ Identify **best & worst-selling pizzas**  
+✔️ Track **total revenue, orders, and sales trends**  
+✔️ Analyze **customer purchase behavior**  
+✔️ Support **data-driven menu optimization**  
 
-📌 Key Insights
-🔹 Best Sellers
+---
 
-Revenue: The Thai Chicken Pizza generated the maximum revenue.
+## 🛠️ Tech Stack  
 
-Quantity: The Classic Deluxe Pizza contributed to the maximum quantity sold.
+| Tool | Purpose |  
+|------|---------|  
+| **Power BI** | Dashboard creation & visualization |  
+| **Power Query** | Data cleaning & transformation |  
+| **Excel / CSV** | Raw dataset storage |  
+| **DAX** | Custom measures & KPIs |  
 
-🔹 Worst Sellers
+---
 
-Revenue: The Brie Carre Pizza generated the minimum revenue.
+## 📂 Data Source  
+- **Dataset:** `Pizza_Sales.csv` (Pizza Sales Dataset — 01-Jan-2015 to 31-Dec-2015)  
+- **Typical Fields:** `OrderID, OrderDate, PizzaCategory, PizzaName, Quantity, UnitPrice, TotalRevenue, OrderID`  
 
-Quantity: The Brie Carre Pizza also contributed the minimum quantity sold.
+> _Place the dataset file in the same repo folder (or a `data/` folder) and update paths in Power BI if required._
 
-📈 Dashboard Features
+---
 
-KPIs:
+## 🌟 Features & Highlights  
 
-Total Revenue: 817.86K
+🔹 **Business Problem**  
+Restaurants often struggle to identify which pizzas contribute most/least to revenue & sales.  
 
-Total Pizzas Sold: 49,574
+🔹 **Dashboard Goal**  
+Deliver an **interactive report** with KPIs & product-level insights for better decision-making.  
 
-Average Pizzas per Order: 2
+🔹 **Key Visuals**  
+- KPIs: **Total Revenue** (817.86K), **Total Pizzas Sold** (49,574), **Avg. Pizzas/Order** (2), **Avg. Order Value** (38.31), **Total Orders** (21,350)  
+- **Top 5 Pizzas** by Revenue, Quantity, and Orders  
+- **Bottom 5 Pizzas** by Revenue, Quantity, and Orders  
+- Side panel: **Best Sellers** & **Worst Sellers** summary cards  
 
-Average Order Value: 38.31
+🔹 **Insights**  
+- 📈 *Thai Chicken Pizza* — highest revenue contributor  
+- 🍕 *Classic Deluxe Pizza* — highest quantity sold  
+- 🛑 *Brie Carre Pizza* — lowest revenue & quantity — candidate for menu review or promotion  
+- 🎯 Use filters: date range, pizza category, and search to drill-down  
 
-Total Orders: 21,350
+---
 
-Visuals Included:
+## 📸 Dashboard Preview  
 
-Top & Bottom 5 pizzas by Revenue, Quantity, and Orders
+<div align="center">  
 
-Best & Worst Sellers (Highlights)
+| Overview | Best & Worst Sellers |  
+|----------|----------------------|  
+| ![Dashboard](./pizza%20sales%20power%20bi%202.png) | ![Dashboard](./pizza%20sales%20power%20bi%202.png) |  
 
-Date filter (Jan–Dec 2015)
+</div>  
 
-Category-wise filtering
+---
 
-🛠️ Tools & Technologies
+## 🚀 How to Run / Use
+1. Put `Pizza_Sales.csv` in the project folder (or `data/` folder).  
+2. Open `Pizza_Sales_Report.pbix` in **Power BI Desktop**.  
+3. If needed, in Power Query adjust the data source path to your CSV location.  
+4. Use slicers for date range and pizza category to explore the visuals.
 
-Power BI – Dashboard & Visualization
+---
 
-Excel/CSV Dataset – Data source
+## 📫 Contact  
 
-Data Cleaning & Transformation – Power Query
-
-🔗 Project Links
-
-📂 Dataset: Pizza Sales Dataset (CSV/Excel)
-
-💼 LinkedIn: Suraj Budakoti
-
+👤 **Suraj Budakoti**  
+📧 [surajbudakoti112@gmail.com](mailto:surajbudakoti112@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/suraj)  
