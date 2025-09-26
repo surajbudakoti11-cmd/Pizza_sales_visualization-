@@ -33,9 +33,8 @@ The dashboard helps restaurants & business managers:
 ---
 
 ## 📂 Data Source  
-- **Dataset:** https://github.com/surajbudakoti11-cmd/Pizza_sales_visualization-/blob/main/pizza_sales_excel_file.xlsx (Pizza Sales Dataset — 01-Jan-2015 to 31-Dec-2015)  
-- **Typical Fields:** `OrderID, OrderDate, PizzaCategory, PizzaName, Quantity, UnitPrice, TotalRevenue, OrderID`  
-
+- **Dataset:** [Pizza Sales Dataset — 01-Jan-2015 to 31-Dec-2015](https://github.com/surajbudakoti11-cmd/Pizza_sales_visualization-/blob/main/pizza_sales_excel_file.xlsx)  
+- **Typical Fields:** `OrderID, OrderDate, PizzaCategory, PizzaName, Quantity, UnitPrice, TotalRevenue`  
 
 ---
 
@@ -57,7 +56,7 @@ Deliver an **interactive report** with KPIs & product-level insights for better 
 - 📈 *Thai Chicken Pizza* — highest revenue contributor  
 - 🍕 *Classic Deluxe Pizza* — highest quantity sold  
 - 🛑 *Brie Carre Pizza* — lowest revenue & quantity — candidate for menu review or promotion  
-- 🎯 Use filters: date range, pizza category, and search to drill-down  
+- 🎯 Use filters: date range, pizza category, and search to drill down  
 
 ---
 
@@ -76,5 +75,5 @@ Deliver an **interactive report** with KPIs & product-level insights for better 
 ## 📫 Contact  
 
 👤 **Suraj Budakoti**  
-📧 [surajbudakoti112@gmail.com](mailto:surajbudakoti11@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/suraj)  
+📧 [surajbudakoti11@gmail.com](mailto:surajbudakoti11@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/suraj)
