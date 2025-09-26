@@ -36,7 +36,6 @@ The dashboard helps restaurants & business managers:
 - **Dataset:** https://github.com/surajbudakoti11-cmd/Pizza_sales_visualization-/blob/main/pizza_sales_excel_file.xlsx (Pizza Sales Dataset — 01-Jan-2015 to 31-Dec-2015)  
 - **Typical Fields:** `OrderID, OrderDate, PizzaCategory, PizzaName, Quantity, UnitPrice, TotalRevenue, OrderID`  
 
-> _Place the dataset file in the same repo folder (or a `data/` folder) and update paths in Power BI if required._
 
 ---
 
@@ -77,5 +76,5 @@ Deliver an **interactive report** with KPIs & product-level insights for better 
 ## 📫 Contact  
 
 👤 **Suraj Budakoti**  
-📧 [surajbudakoti112@gmail.com](mailto:surajbudakoti112@gmail.com)  
+📧 [surajbudakoti112@gmail.com](mailto:surajbudakoti11@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/suraj)  
