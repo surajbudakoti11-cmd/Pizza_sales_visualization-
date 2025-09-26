@@ -76,4 +76,4 @@ Deliver an **interactive report** with KPIs & product-level insights for better 
 
 👤 **Suraj Budakoti**  
 📧 [surajbudakoti11@gmail.com](mailto:surajbudakoti11@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/suraj-budakoti-55a8b2379)
+💼 [LinkedIn](https://www.linkedin.com/in/suraj-budakoti-55a8b2379)
